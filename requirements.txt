@@ -1,2 +1,5 @@
 icalendar
 recurring-ical-events
+matplotlib
+openai
+urllib.parse

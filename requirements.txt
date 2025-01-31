@@ -1,5 +1,7 @@
+streamlit
 icalendar
 recurring-ical-events
+pandas
 matplotlib
 openai
-urllib.parse
+urllib3

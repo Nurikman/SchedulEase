@@ -1,17 +1,14 @@
 from datetime import datetime, timedelta
-from icalendar import Calendar, Event
+from icalendar import Calendar
 import recurring_ical_events
 from collections import OrderedDict
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
-import dotenv
+import openai
 from openai import OpenAI
-import openai  # Add this import
 from urllib.parse import quote
-import json
-import ast
 
 def create_ics(schedule_dict, output_filename="schedule.ics"): #not used
     def format_datetime(date, time_range):

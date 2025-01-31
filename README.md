@@ -14,7 +14,8 @@ SchedulEase is an intelligent, automatic scheduling application that helps you m
 3) Regenerate schedules until you find the perfect fit
 4) Export and upload your personalized schedule back to Google Calendar
 
-🎯 Why SchedulEase?
+**🎯 Why SchedulEase?**
+
 Many people avoid time-blocking because it’s tedious, but structured planning is key to productivity. SchedulEase automates the process, helping you:
 
 ✔ Understand your time constraints
@@ -24,7 +25,7 @@ Many people avoid time-blocking because it’s tedious, but structured planning 
 ✔ Maximize efficiency with minimal effort
 
 
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 🔹 Seamless Calendar Integration – Avoid manual file uploads
 

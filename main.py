@@ -390,7 +390,7 @@ def main():
     """
     st.markdown(page_bg_color, unsafe_allow_html=True)
   
-    st.image("ShedulEase logo.png", use_column_width=True)
+    st.image("ShedulEase logo.png", use_container_width=True)
     st.title("Your AI assistant for time management")
 
     uploaded_file = st.file_uploader("Upload a your calendar file (.ics format)", type=["ics"])
